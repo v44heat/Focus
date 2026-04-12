@@ -94,7 +94,7 @@ cd focus-app
 
 ### 2. Create a Supabase project
 
-Go to [supabase.com](https://supabase.com) → **New project**. Wait ~2 minutes.
+Go to [supabase.com](https://supabase.com) → **New project**.
 
 ### 3. Run the database migration
 
@@ -142,9 +142,6 @@ vercel
 
 Or connect your GitHub repo at [vercel.com/new](https://vercel.com/new) — no configuration needed.
 
-### Netlify
-
-Drag and drop the project folder into [app.netlify.com](https://app.netlify.com/drop).
 
 ### Cloudflare Pages / GitHub Pages
 
