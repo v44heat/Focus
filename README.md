@@ -4,7 +4,7 @@
 
 ## Overview
 
-Focus is a zero-dependency, single-file productivity dashboard that runs in any browser. It pairs a carefully crafted UI with a full Supabase backend — giving you persistent data, user authentication, real-time sync across devices, and a daily email digest, all without a build step or framework.
+Focus is a zero-dependency productivity dashboard that runs in any browser. It pairs a carefully crafted UI with a full Supabase backend — giving you persistent data, user authentication, real-time sync across devices, and a daily email digest, all without a build step or framework.
 
 The design language is warm, minimal, and intentional. No clutter. Every feature earns its place.
 
