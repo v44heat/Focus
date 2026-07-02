@@ -143,11 +143,6 @@ vercel
 Or connect your GitHub repo at [vercel.com/new](https://vercel.com/new) — no configuration needed.
 
 
-### Cloudflare Pages / GitHub Pages
-
-Push to GitHub and connect via the respective dashboard. No build settings required.
-
----
 
 ## Setting Up Daily Email Digest
 
